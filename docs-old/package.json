@@ -17,7 +17,7 @@
     "@stackblitz/sdk": "^1.11.0",
     "@vercel/og": "^0.6.2",
     "classnames": "^2.5.1",
-    "next": "^14.2.10",
+    "next": "^14.2.21",
     "next-sitemap": "^4.2.3",
     "nextra": "3.0.0-alpha.28",
     "nextra-theme-blog": "3.0.0-alpha.28",
